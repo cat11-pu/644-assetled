@@ -1,0 +1,11 @@
+{
+  "source": "crt",
+  "observed_at": "2021-11-25T06:00:00Z",
+  "records": [
+    {"hosts": ["a.example.com", "b.example.com"], "ip": "203.0.113.10"},
+    {"hosts": ["c.example.com"], "ip": "198.51.100.7"},
+    {"hosts": ["d.example.com"]},
+    {"hosts": ["e.example.com", "E.EXAMPLE.COM."], "ip": "192.0.2.5"},
+    {"hosts": ["mail.example.com"], "ip": "10.0.0.5"}
+  ]
+}

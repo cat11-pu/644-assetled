@@ -1,0 +1,11 @@
+{
+  "source": "vt",
+  "observed_at": "2021-11-26T02:20:00Z",
+  "records": [
+    {"name": "c.example.com", "last_dns_records": [{"type": "A", "value": "198.51.100.7"}]},
+    {"name": "g.example.com", "last_dns_records": [{"type": "A", "value": "192.0.2.6"}, {"type": "AAAA", "value": "2001:db8::1"}]},
+    {"name": "h.example.com", "last_dns_records": [{"type": "AAAA", "value": "2001:db8::2"}]},
+    {"name": "d.example.com", "last_dns_records": []},
+    {"name": "e.example.com", "last_dns_records": [{"type": "A", "value": "192.0.2.5"}]}
+  ]
+}
